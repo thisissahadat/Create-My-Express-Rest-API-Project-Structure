@@ -1,0 +1,32 @@
+Project Structure
+Create  a project folder
+Create package.json
+Install express
+Install node packages
+Create index.js @ root
+Create app.js @root
+Create config.env @root
+Create src directory
+Create src->controllers folder
+Create src->models folder
+Create src->routes folder
+
+
+Dependencies
+1. To install pakage.json file        > npm init --y
+2. To Install Express js                > npm install express --save               Express: The core backbone
+3. To install body-parser             > npm i body-parser                          Body-parser: This is a node.js middleware for handling JSON, Raw, Text and URLencodedform data.
+4. To install cookie-parser           > npm i cookie-parser                       Cookie-parser: Used to parse Cookie header and populate req.cookies with an object keyed by the cookie names.
+5. To install multer                    > npm i multer                                 Multer: This is a node.js middleware for handling multipart/form-data.
+6. To install jsonwebtoken           > npm i jsonwebtoken                      Jsonwebtoken: Securely transmitting information between parties as a JSON object.
+7. To install mysql                      > npm i mysql                                  MySQL Driver: To access a MySQL database with Node.js
+8. To install mongose                 > npm i mongose                               Mongo dB Driver: To access a Mongo database with Node.js
+9. To install dotenv                    > npm i dotenv                                 Dotenv: Dotenv is a zero-dependency module that loads environment variables.
+10.To install cors                      > npm i cors                                      Cors: CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+11.To install helmet                  > npm i helmet                                   Helmet: Helmet helps you secure your Express apps by setting various HTTP headers.
+12.To install hpp                      > npm i hpp                                        HPP: Express middleware to protect against HTTP Parameter Pollution attacks.
+13.To install express-mongo-sanitize  > npm i express-mongo-sanitize       Express-mongo-sanitize: Sanitizes user-supplied data to prevent MongoDB Operator Injection.
+14.To install express-rate-limit         > npm i express-rate-limit               Express-rate-limit: Rate-limiting middleware for Express. Use to limit repeated requests to public APIs and/or endpoints.
+15.To install xss-clean                     > npm i xss-clean                           Xss-clean: Connect middleware to sanitize user input coming from POST body, GET queries, and url params.
+Shahadat Hossain
+thisissahadat@gmail.com
