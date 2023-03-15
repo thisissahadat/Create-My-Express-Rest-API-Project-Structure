@@ -28,5 +28,6 @@ Dependencies
 13.To install express-mongo-sanitize  > npm i express-mongo-sanitize       Express-mongo-sanitize: Sanitizes user-supplied data to prevent MongoDB Operator Injection.
 14.To install express-rate-limit         > npm i express-rate-limit               Express-rate-limit: Rate-limiting middleware for Express. Use to limit repeated requests to public APIs and/or endpoints.
 15.To install xss-clean                     > npm i xss-clean                           Xss-clean: Connect middleware to sanitize user input coming from POST body, GET queries, and url params.
+16.To install mongose                       > npm i mongose                Database
 Shahadat Hossain
 thisissahadat@gmail.com
